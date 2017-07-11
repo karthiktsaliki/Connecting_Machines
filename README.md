@@ -1,4 +1,4 @@
-# Communicator
+# Connector
 
 Which connects my website to my rasberry-pi.
 
